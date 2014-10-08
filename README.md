@@ -7,7 +7,7 @@ It is compatiable with JUnit 3 & JUnit 4.
 What can it be used for?
 ---
 
-Approval Tests can be used for verifing objects that require more than a simple assert. They also come prepackaged with utilities for some common .Net scenarios including
+Approval Tests can be used for verifing objects that require more than a simple assert. They also come prepackaged with utilities for some common scenarios including
 
 
 - HashMaps & Collections
